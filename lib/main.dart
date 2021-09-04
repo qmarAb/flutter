@@ -8,6 +8,7 @@ import 'package:app_meal/pages/config.dart';
 
 void main() {
   runApp(MaterialApp(
+    title: "foood",
     debugShowCheckedModeBanner: false,
     home: Splash(),
   ));
